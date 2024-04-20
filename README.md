@@ -1,6 +1,6 @@
 # Responsive Portfolio Site 
 
-![complete homepage](images/complete-homepage.png)
+![complete homepage](images/Image%204-17-24%20at%205.16%20PM.jpg)
 
 ## Breaking Down the Personal Portfolio Website Vibe
 
